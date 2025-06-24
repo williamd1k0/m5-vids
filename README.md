@@ -4,7 +4,10 @@ This project is a simple video player experiment I made to test if I could use t
 
 https://github.com/user-attachments/assets/1cad9f04-546c-40a6-82ce-70d8677e0596
 
-https://github.com/user-attachments/assets/785dace3-9aed-45ff-b86f-9273ba870b77
+https://github.com/user-attachments/assets/01d49514-d8be-49d2-8a9f-848927d2ad81
+
+https://github.com/user-attachments/assets/2f9e45e1-8a41-4943-b442-0deff69500f7
+
 
 > [!WARNING]
 > As I am not a professional MCU/IoT developer, this code may not be the most efficient or optimal solution. It was created as a personal project and may not follow best practices. Use it at your own risk!
