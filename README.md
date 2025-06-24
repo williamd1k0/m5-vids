@@ -28,7 +28,8 @@ The video file must be in the MJPEG format and the audio file must be in the raw
 > You can use the following command to convert a video file:
 > ```bash
 > cd vids
-> make i=myvideo.mp4 # which will create myvideo.mjpeg and myvideo.pcm in the `vids/out` directory
+> make i=myvideo.mp4
+> # which will create myvideo.mjpeg and myvideo.pcm in the `vids/out` directory
 > ```
 
 To play the MJPEG+PCM video, just copy the two files to the SD card, insert the SD card into the M5Stack Cardputer, and run the program (the MJPEG file and the PCM file must have the same name, but with the extensions `.mjpeg` and `.pcm`, respectively).
@@ -37,6 +38,6 @@ The program supports multiple MJPEG+PCM files, so you can have multiple videos o
 
 ## Usage
 
-- <kbd>BtnA</kbd> (aka <kbd>Btn0</kbd>): Pause/Resume the video
+- <kbd>BtnA</kbd> (aka <kbd>BtnG0</kbd>): Pause/Resume the video
 - Keyboard <kbd>Left</kbd>/<kbd>Right</kbd> (aka <kbd>,</kbd>/<kbd>/</kbd>: Previous/Next video
-- Keyboard <kbd>-</kbd>/<kbd>+</kbd> (aka <kbd>-</kbd>/<kbd>=</kbd>): Volume down/up
+- Keyboard <kbd>-</kbd>/<kbd>+</kbd> (aka <kbd>_</kbd>/<kbd>=</kbd>): Volume down/up
