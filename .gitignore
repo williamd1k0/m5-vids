@@ -3,3 +3,4 @@
 *.webm
 vids/out
 compile_flags.txt
+build/
