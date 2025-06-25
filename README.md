@@ -31,7 +31,7 @@ The program plays a video from the SD card using two separated files (one for th
 The video file must be in the MJPEG format and the audio file must be in the raw PCM u8 format.
 
 > [!TIP]
-> There is a Makefile in the `vids` directory that can be used to convert a video file (such as an MP4 file) to the required formats.
+> There is a Makefile in the `vids` directory that can be used to convert a video file (such as an MP4 file) to the required formats (requires [ffmpeg](https://ffmpeg.org/)).
 > You can use the following command to convert a video file:
 > ```bash
 > cd vids
